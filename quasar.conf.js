@@ -58,7 +58,9 @@ module.exports = function (ctx) {
         'QItemSection',
         'QItemLabel',
         'QKnob',
-        'QAvatar'
+        'QAvatar',
+        'QTimeline',
+      'QTimelineEntry'
       ],
 
       directives: [

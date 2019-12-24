@@ -23,7 +23,7 @@
       </div>
       <div class="q-mt-xl pusherT">
         <span class="font_name">
-          Olumide Adebayo.
+          Olumide Adebayo
         </span>
            <div class="font_style">
       <span>    I have over three years of experience building responsive and accessible websites </span>
@@ -100,7 +100,7 @@ export default {
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   border-style: double;
   border-color: #bffcf9;
   border-width: 5px;
